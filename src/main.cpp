@@ -1,3 +1,14 @@
+/* 
+   ====================================================================
+   Materia: Laboratorio de Programación (LPR) — 5° Año
+   Institución: E.E.S.T. N° 1 "Eduardo Ader" — Vicente López
+   Archivo: src/main.cpp
+   Actividad 9: Práctica En Papel "Pensar Antes De Programar
+   Docente: Mansilla Muñoz York
+   Estudiante: Zacarias Gabriel
+   ====================================================================
+*/
+
 #include <iostream>
 #include <string>
 
